@@ -17,3 +17,6 @@ I also built scatter plots that highlighted:
 * Global Humidity 
 * Global Cloudiness
 * Global Wind Speeds
+
+### Tableau
+* Recreated matplotlib plots using Tableau
