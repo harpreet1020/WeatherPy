@@ -19,4 +19,5 @@ I also built scatter plots that highlighted:
 * Global Wind Speeds
 
 ### Tableau
-* Recreated matplotlib plots using Tableau
+* I used Tableau to recreate the charts and to make them interactive.
+* Published the charts to Tableau Public and placed them in iframes within the HTML
